@@ -1,7 +1,6 @@
 {
-  "name": "sobre-mim",
-  "version": "1.0.0",
-  "engines": {
-    "node": "26.x"
-  }
+    "liveServer.settings.port": 5501,
+    "engines": {
+        "node": "26.x"
+    }
 }
