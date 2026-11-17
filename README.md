@@ -7,7 +7,7 @@ Um portfólio onde armazeno informações sobre o meu trabalho como desenvolvedo
  
 ## Tela inicial do portfólio
 
-<img src="/img/Imagem_inicial.png">
+<img src="/img/imagem_tela_inicial.png">
 
 ## Link do portfólio
 
